@@ -4,7 +4,7 @@
 
 ---
 
-## 🌎 Why SukaMania Exists
+## Why SukaMania Exists?
 
 Every year, thousands of electronic devices are discarded incorrectly, causing environmental contamination and wasting valuable recyclable materials.
 
@@ -27,7 +27,7 @@ Instead of simply informing users where to recycle, the platform motivates parti
 
 ---
 
-## 🚀 Core Experience
+##  Core Experience
 
 ### Earn Points
 
@@ -61,7 +61,7 @@ Users can visualize their contribution toward reducing environmental pollution a
 
 ---
 
-## 🔥 Main Features
+## Main Features
 
 | Feature                | Purpose                           |
 | ---------------------- | --------------------------------- |
