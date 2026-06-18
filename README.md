@@ -130,7 +130,7 @@ sukamania/
 | Victor Magal | Scrum Master | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/VictorCmagal) |
 | Guilherme Perassolo | UX/UI | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
 | Luiz Fernando | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/luizfernando362) |
-| Laura Araújo | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/lauraraujjo) |
+| Laura Araújo | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/lauraaujjo) |
 | Matheus Rebelo | Backend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
 
 ## 🎓 Academic Project
