@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VictorCmagal/SUKA-Mania/main/img/Logo.png" alt="SukaMania Banner" width="400">
+  <img src="https://raw.githubusercontent.com/VictorCmagal/SUKA-Mania/main/img/Logo.png" alt="SukaMania Banner" width="200">
 </p>
 
 [![Figma Prototype](https://img.shields.io/badge/Figma-View%20Prototype-A259FF?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/7NaVVgbcJU8o9gsj2kw9Mu/Telas_SukaMania?page-id=0%3A1&node-id=1-2&viewport=379%2C272%2C0.5&t=oTjHGxjXbClvRMcR-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&show-proto-sidebar=1)
