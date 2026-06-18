@@ -123,12 +123,12 @@ sukamania/
 
 | Member | Role          |
 | ------ | ------------- |
-| Nome   | Product Owner |
-| Nome   | UI/UX         |
-| Nome   | Frontend      |
-| Nome   | Frontend      |
-| Nome   | Backend       |
-| Nome   | Backend       |
+| Otavio Luiz   | Product Owner |
+| Victor Magal  | Scrum master        |
+| Guilherme Perassolo | Ux/Ui     |
+| Luiz Fernando | Frontend      |
+| Laura Araújo  | Frontend       |
+| Matheus Rebelo  | Backend       |
 
 ---
 
