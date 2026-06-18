@@ -151,3 +151,9 @@ Developed as a Capstone Project for the **Systems Analysis and Development** pro
 Every recycled device represents fewer pollutants in nature and more materials returning to the production cycle.
 
 SukaMania exists to make that action easier, more accessible, and more rewarding.
+# ♻️ SukaMania
+
+[![Figma Prototype](https://img.shields.io/badge/Figma-View%20Prototype-A259FF?style=for-the-badge&logo=figma&logoColor=white)](LINK_DO_FIGMA)
+[![Website](https://img.shields.io/badge/SukaMania-Visit%20Website-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](LINK_DO_SITE)
+
+> Transformando o descarte de lixo eletrônico em uma experiência simples, educativa e recompensadora.
