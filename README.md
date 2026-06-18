@@ -1,7 +1,7 @@
 # ♻️ SukaMania
 
 [![Figma Prototype](https://img.shields.io/badge/Figma-View%20Prototype-A259FF?style=for-the-badge&logo=figma&logoColor=white)](LINK_DO_FIGMA)
-[![Website](https://img.shields.io/badge/SukaMania-Visit%20Website-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](LINK_DO_SITE)
+[![Website](https://img.shields.io/badge/SukaMania-Visit%20Website-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suka-mania.netlify.app/)
 
 > Transformando o descarte de lixo eletrônico em uma experiência simples, educativa e recompensadora.
 
