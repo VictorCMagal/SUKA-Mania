@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VictorCmagal/SUKA-mania/main/img/logo.png" alt="SukaMania Banner" width="800">
+  <img src="https://raw.githubusercontent.com/VictorCmagal/SUKA-Mania/main/img/logo.png" alt="SukaMania Banner" width="800">
 </p>
 #  SukaMania
 
