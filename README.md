@@ -83,7 +83,7 @@ Users can visualize their contribution toward reducing environmental pollution a
 | Area            | Technology            |
 | --------------- | --------------------- |
 | Frontend        | HTML, CSS, JavaScript |
-| Backend         | PHP                   |
+| Backend         | C                   |
 | Database        | MySQL                 |
 | Design          | Figma                 |
 | Version Control | Git & GitHub          |
