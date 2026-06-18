@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SUKA Mania - Reciclagem de Lixo Eletrônico</title>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <img 
+      src="img/icon.png" 
+      alt="Suka Icon"
+    >
+    <h1>SUKA Mania</h1>
+    <p>Transformando lixo eletrônico em um futuro sustentável</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+
+<main class="pagina-contato">
+
+    <!-- <h2>Contato</h2> -->
+
+    <form class="formulario">
+
+        <div class="campo">
+            <label>Nome</label>
+            <input type="text" id="nome" placeholder="Seu nome aqui.">
+        </div>
+
+        <div class="campo">
+            <label>Email</label>
+            <input type="email" id="email" placeholder="Campo de Email">
+        </div>
+
+        <div class="campo">
+            <label>Idade</label>
+            <input type="number" id="idade" placeholder="">
+        </div>
+  
+        <div class="campo">
+            <label>Tipo</label>
+
+            <select id="plano">
+                <option>Pergunta</option>
+                <option>Reclamação</option>
+                <option>Outro</option>
+            </select>
+        </div>
+
+        <div class="campo">
+            <label>Mensagem:</label><br>
+            <textarea id="enviar_m" rows="5"></textarea>
+        </div>
+
+        <button type="button" onclick="cadastrar()">Enviar</button>
+        <button type="reset" onclick="limparFormulario()">Limpar</button>
+
+        <br><br>
+        <div id="mensagem"></div>
+
+    </form>
+
+</main>
+
+  <footer>
+    <p>📧 contato@sukamania.com</p>
+    <p>📍 Recife - Pernambuco</p>
+    <p>© 2026 SUKA Mania - Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>

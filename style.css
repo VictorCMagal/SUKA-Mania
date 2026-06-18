@@ -12,7 +12,7 @@ body{
 }
 
 header{
-  background:linear-gradient(135deg,#16a34a,#22c55e);
+  background:linear-gradient(180deg,#22c55e,#13814e);
   padding:40px 20px;
   text-align:center;
 }
@@ -24,6 +24,11 @@ header h1{
 
 header p{
   font-size:1.2rem;
+}
+
+header img{
+  width: 150px;  /* metade de 400px */
+  height: 150px; /* metade de 300px */
 }
 
 nav{
@@ -89,7 +94,7 @@ nav a:hover{
 .hero img{
   width:350px;
   border-radius:20px;
-  box-shadow:0 0 20px rgba(0,0,0,0.5);
+  box-shadow:0 0 10px rgba(0,0,0,0.5);
 }
 
 .cards{
@@ -128,6 +133,12 @@ nav a:hover{
   font-size:2rem;
 }
 
+.sobre h3{
+  color:#22c55e;
+  margin-bottom:10px;
+  font-size:1.5rem;
+}
+
 .sobre p{
   max-width:800px;
   margin:auto;
@@ -140,6 +151,68 @@ footer{
   padding:20px;
   color:#94a3b8;
   margin-top:40px;
+}
+
+/* Mensagem para .js */
+#mensagem {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* FORMULÁRIO */
+
+.pagina-contato{
+    width:60%;
+    margin:40px auto;
+}
+
+.formulario{
+    background:#1e293b;
+
+    padding:30px;
+
+    border-radius:10px;
+}
+
+.campo{
+    color:#22c55e;
+    margin-bottom:20px;
+
+    display:flex;
+    flex-direction:column;
+}
+
+.campo label{
+    margin-bottom:8px;
+}
+
+.campo input,
+.campo select,
+.campo textarea{
+    padding:12px;
+
+    border:1px solid #6bff16;
+
+    border-radius:5px;
+}
+
+.formulario button{
+    padding:15px 25px;
+
+    background:#429749;
+    color:white;
+
+    border:none;
+
+    border-radius:5px;
+
+    cursor:pointer;
+}
+
+.formulario button:hover{
+    background:#55d42e;
 }
 
 @media(max-width:768px){
@@ -157,4 +230,7 @@ footer{
     max-width:350px;
   }
 
+  .pagina-contato {
+        width: 90%;
+  }
 }
