@@ -124,16 +124,14 @@ sukamania/
 
 ## 🤝 Development Team
 
-| Member | Role          |
-| ------ | ------------- |
-| Otavio Luiz   | Product Owner |
-| Victor Magal  | Scrum master        |
-| Guilherme Perassolo | Ux/Ui     |
-| Luiz Fernando | Frontend      |
-| Laura Araújo  | Frontend       |
-| Matheus Rebelo  | Backend       |
-
----
+| Member | Role | GitHub |
+|---------|---------|---------|
+| Otavio Luiz | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
+| Victor Magal | Scrum Master | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
+| Guilherme Perassolo | UX/UI | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
+| Luiz Fernando | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
+| Laura Araújo | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
+| Matheus Rebelo | Backend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
 
 ## 🎓 Academic Project
 
