@@ -146,7 +146,7 @@ Developed as a Capstone Project for the **Systems Analysis and Development** pro
 * Victor Henrique dos Santos Oliveira — Front End
 * Ronierison de Souza Maciel — Database
 * Leonardo Lucena Trevas — Technical English
-
+* Ameliara - Coding and algorithm 
 ---
 
 ## 🌱 Small Actions. Real Impact.
