@@ -126,7 +126,7 @@ sukamania/
 
 | Member | Role | GitHub |
 |---------|---------|---------|
-| Otavio Luiz | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
+| Otavio Luiz | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/boredflush) |
 | Victor Magal | Scrum Master | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
 | Guilherme Perassolo | UX/UI | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
 | Luiz Fernando | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO) |
