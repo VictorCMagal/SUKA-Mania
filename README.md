@@ -80,7 +80,7 @@ Users can visualize their contribution toward reducing environmental pollution a
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 | Area            | Technology            |
 | --------------- | --------------------- |
@@ -131,7 +131,7 @@ SUKA-Mania/
 - **script.js** → JavaScript functionality
 ---
 
-## 🤝 Development Team
+## Dev. Team
 
 | Member | Role | GitHub |
 |---------|---------|---------|
@@ -142,7 +142,7 @@ SUKA-Mania/
 | Laura Araújo | Frontend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/lauraaujjo) |
 | Matheus Rebelo | Backend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/MatheusRebelo) |
 
-## 🎓 Academic Project
+## Academic Project
 
 Developed as a Capstone Project for the **Systems Analysis and Development** program at **Senac College**.
 
