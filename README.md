@@ -108,25 +108,27 @@ Future developments may include:
 * Smart collection point recommendations.
 
 ---
-
 ## 📂 Project Structure
 
 ```text
 SUKA-Mania/
-│
-├── img/             # Images and visual assets
-│
-├── index.html       # Home page
-├── sobre.html       # About page
-├── servicos.html    # Services page
-├── contato.html     # Contact page
-│
-├── style.css        # Main stylesheet
-├── script.js        # JavaScript functionality
-│
-└── README.md        # Project documentation
+├── img/
+├── index.html
+├── sobre.html
+├── servicos.html
+├── contato.html
+├── style.css
+├── script.js
+└── README.md
 ```
 
+- **img/** → Images and visual assets
+- **index.html** → Home page
+- **sobre.html** → About page
+- **servicos.html** → Services page
+- **contato.html** → Contact page
+- **style.css** → Main stylesheet
+- **script.js** → JavaScript functionality
 ---
 
 ## 🤝 Development Team
