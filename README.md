@@ -112,14 +112,19 @@ Future developments may include:
 ## 📂 Project Structure
 
 ```text
-sukamania/
-├── assets/
-├── pages/
-├── admin/
-├── database/
-├── api/
-├── docs/
-└── README.md
+SUKA-Mania/
+│
+├── img/             # Images and visual assets
+│
+├── index.html       # Home page
+├── sobre.html       # About page
+├── servicos.html    # Services page
+├── contato.html     # Contact page
+│
+├── style.css        # Main stylesheet
+├── script.js        # JavaScript functionality
+│
+└── README.md        # Project documentation
 ```
 
 ---
