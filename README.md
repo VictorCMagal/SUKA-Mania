@@ -146,6 +146,11 @@ SUKA-Mania/
 
 Developed as a Capstone Project for the **Systems Analysis and Development** program at **Senac College**.
 
+### 🔒 LGPD Compliance
+
+SUKA-Mania is committed to protecting users' privacy and personal data in accordance with Brazil's General Data Protection Law (LGPD - Law No. 13,709/2018). The platform collects only the information necessary for its services, ensuring transparency, security, and responsible data handling. Users have the right to access, correct, and request the deletion of their personal data whenever applicable.
+
+
 ### Advisors
 
 * André Luiz Gomes da Silva — Project Management & Innovation
