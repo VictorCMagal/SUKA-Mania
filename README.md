@@ -88,7 +88,7 @@ Users can visualize their contribution toward reducing environmental pollution a
 | Backend         | C                   |
 | Database        | MySQL                 |
 | Design          | Figma                 |
-| Version Control | Git & GitHub          |
+| Version Control | GitHub          |
 
 ---
 
