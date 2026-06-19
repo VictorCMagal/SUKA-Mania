@@ -154,7 +154,7 @@ Developed as a Capstone Project for the **Systems Analysis and Development** pro
 
 ### Advisors
 * Samantha Grasielle Câmara Pimentel — Interaction Design
-* Luciano Trevas - Tech English
+* Leonardo Trevas - Tech English
 ---
 
 ## ♻️ Small Actions. Real Impact.
