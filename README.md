@@ -92,7 +92,7 @@ Users can visualize their contribution toward reducing environmental pollution a
 
 ---
 
-## 📈 Future Vision
+## Future Vision
 
 SukaMania is designed to evolve beyond a recycling platform.
 
