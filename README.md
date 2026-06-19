@@ -162,7 +162,7 @@ Developed as a Capstone Project for the **Systems Analysis and Development** pro
 * Ameliara - Coding and algorithm 
 ---
 
-## 🌱 Small Actions. Real Impact.
+## ♻️ Small Actions. Real Impact.
 
 Every recycled device represents fewer pollutants in nature and more materials returning to the production cycle.
 
