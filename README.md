@@ -153,13 +153,8 @@ SUKA-Mania is committed to protecting users' privacy and personal data in accord
 Developed as a Capstone Project for the **Systems Analysis and Development** program at **Senac College**.
 
 ### Advisors
-
-* André Luiz Gomes da Silva — Project Management & Innovation
 * Samantha Grasielle Câmara Pimentel — Interaction Design
-* Victor Henrique dos Santos Oliveira — Front End
-* Ronierison de Souza Maciel — Database
-* Leonardo Lucena Trevas — Technical English
-* Ameliara - Coding and algorithm 
+* Luciano Trevas - Tech English
 ---
 
 ## ♻️ Small Actions. Real Impact.
